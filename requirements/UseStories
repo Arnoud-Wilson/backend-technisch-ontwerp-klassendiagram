@@ -1,0 +1,38 @@
+Use stories:
+
+////////// Use stories medewerker //////////
+
+Als medewerker
+Wil ik de voorraad van producten in zien
+Zodat ik weet of ik bepaalde producten kan verkopen
+
+Als medewerker
+Wil ik producten van de voorraad af halen als ze verkocht zijn
+Zodat de voorraad kloppend blijft
+
+Als medewerker
+Wil ik de prijs van een product kunnen zien
+Zodat ik weet waarvoor het product verkocht moet worden
+
+Als medewerker
+Wil ik zien welke producten op elkaar passen
+Zodat ik deze ook aan kan bieden
+
+////////// Use stories admin //////////
+
+Als admin
+Wil ik alles kunnen wat een medewerker ook kan
+Zodat ik mijn werk kan doen
+
+Als admin
+Wil ik producten aan de voorraad toe kunnen voegen
+Zodat deze producten verkocht kunnen worden
+
+Als admin
+Wil ik producten aan kunnen passen
+Zodat ik ze bijvoorbeeld goedkoper aan kan bieden
+
+Als admin
+Wil ik de verkochte aantallen per product kunnen zien
+Zodat ik de voorraad daarop aan kan passen
+

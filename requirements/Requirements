@@ -1,0 +1,23 @@
+Requirements:
+
+////////// Functionele eisen: //////////
+
+F1. De applicatie heeft verschillende producten
+F2. De applicatie houdt het de verkochte aantallen per product bij
+F3. De applicatie heeft een "medewerker" gebruikersrol
+F4. De applicatie heeft een "admin" gebruikersrol
+F5. Als admin kunnen producten toegevoegd worden
+F6. Als admin kan een product aangepast worden
+F7. Als admin kan het aantal producten op voorraad aangepast worden
+F8. Als medewerker kan de actuele voorraad van een product ingezien worden
+F9. Als medewerker kunnen producten verwijderd worden
+F10. Als medewerker kan de prijs per product ingezien worden
+F11. Als medewerker kan ingezien worden welke producten op elkaar passen
+
+////////// Niet functionele eisen: //////////
+
+NF1. Er is een inlog functionaliteit voor authenticatie gebruikersrollen
+NF2. Er is een authenticatie proces dmv JWT token
+NF3. Er is een duidelijk en makkelijk bedienbare user interface
+NF4. De applicatie moet op meerdere devices werken
+NF5. De applicatie moet stabiel en snel blijven werken bij maximaal 20 gebruikers
